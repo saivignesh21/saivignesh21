@@ -1,85 +1,46 @@
-# Sai Vignesh
+# Guguloth Sai Vignesh
+**Full Stack & AI Developer | Undergraduate at IIT Kharagpur**
 
-B.Tech Student at IIT Kharagpur
+---
 
-Aspiring AI Engineer and Full-Stack Developer focused on Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and scalable web applications.
+### 🏛️ About Me
+* Pursuing a Dual Degree at the **Indian Institute of Technology, Kharagpur**.
+* Specializing in scalable web architectures, full-stack systems, and AI framework integration.
+* Focused on building production-ready applications utilizing modern software methodologies, RAG systems, and intelligent agents.
+* Open to collaboration on open-source initiatives and impactful engineering projects.
 
-## About
+---
 
-I am currently pursuing a Bachelor's degree at IIT Kharagpur and building practical software and AI solutions. My interests include:
+### 💻 Technical Expertise
 
-- Artificial Intelligence
-- Machine Learning
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Full-Stack Development
-- Mobile Application Development
-- System Design and Scalable Architectures
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | C++, Python, JavaScript (ES6+), C, Java, HTML5, CSS3 |
+| **Frameworks & Libraries** | React.js, Next.js, Node.js, Express.js, Tailwind CSS, Flutter, React Native |
+| **AI & Data Science** | PyTorch, TensorFlow, Scikit-Learn, Pandas, LangChain / Agentic Frameworks |
+| **Databases & Caching** | MongoDB, MySQL, PostgreSQL, Supabase, Redis |
+| **Cloud & DevOps** | AWS, Firebase, Git, Git Bash, n8n Automation |
 
-## Current Focus
+---
 
-- Building AI-powered applications
-- Developing end-to-end full-stack products
-- Exploring multi-agent AI systems
-- Learning MLOps and cloud deployment
-- Contributing to open-source projects
+### 🚀 Key Projects & Focus Areas
 
-## Technology Stack
+* **Full-Stack Systems:** Designing responsive, secure web platforms using the MERN stack and Next.js, optimizing frontend performance and backend APIs.
+* **AI Engineering:** Developing Retrieval-Augmented Generation (RAG) pipelines and adaptive learning systems (e.g., text-to-learn architectures).
+* **Cross-Platform Mobile:** Engineering high-performance mobile applications using Flutter and React Native.
 
-### Languages
-- Python
-- JavaScript
-- Java
-- C++
-- SQL
+---
 
-### AI & Data Science
-- Scikit-Learn
-- TensorFlow
-- PyTorch
-- Pandas
-- NumPy
+### 📊 Performance & Contributions
 
-### Backend
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-- Redis
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saivignesh21&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Sai Vignesh's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=saivignesh21&theme=tokyonight&hide_border=true" width="48%" alt="Sai Vignesh's Git Streak" />
+</p>
 
-### Frontend
-- React
-- HTML
-- CSS
+---
 
-### Mobile
-- Flutter
-- React Native
+### 🌐 Contact & Professional Networks
 
-### Cloud & Tools
-- AWS
-- Firebase
-- Git
-- GitHub
-
-## Featured Projects
-
-### Enterprise RAG Assistant
-AI-powered document intelligence platform using vector search and LLMs.
-
-### AI Finance Advisor
-Financial insights and portfolio analysis using machine learning and AI.
-
-### Multi-Agent AI System
-Collaborative AI agents designed for complex business workflows.
-
-### RentEasy
-Property rental and real-estate platform with recommendation features.
-
-## Connect
-
-LinkedIn:
-www.linkedin.com/in/sai-vignesh21
-
-Email:
-gugulothvignesh302@gmail.com
+* **Email:** gugulothvignesh302@gmail.com
+* **LinkedIn:** [linkedin.com/in/sai-vignesh21](https://www.linkedin.com/in/sai-vignesh21)
