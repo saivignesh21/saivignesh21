@@ -1,61 +1,85 @@
-<h1 align="center">Hi 👋, I'm Guguloth Sai Vignesh</h1>
-<h3 align="center">👨‍🎓 Pre-final Year Student @ IIT Kharagpur | Full Stack & AI Developer | Tech Explorer</h3>
+# Sai Vignesh
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/76828886/236453010-9b130248-3be5-4269-9e39-7927a9f4a598.gif" alt="banner" width="80%" />
-</p>
+B.Tech Student at IIT Kharagpur
 
+Aspiring AI Engineer and Full-Stack Developer focused on Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and scalable web applications.
 
-### 🌟 About Me
+## About
 
-- 🎓 I’m pursuing my B.Tech at **IIT Kharagpur**
-- 🔭 Currently building real-world projects using **MERN stack, Flutter, and AI frameworks**
-- 🚀 Passionate about **startups, scalable web systems, and impactful products**
-- 🌱 Exploring **AI, ML, Flutter, and DevOps**
-- 📫 Reach me: **gugulothvignesh302@gmail.com**
+I am currently pursuing a Bachelor's degree at IIT Kharagpur and building practical software and AI solutions. My interests include:
 
-### 🌐 Connect With Me
+- Artificial Intelligence
+- Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Full-Stack Development
+- Mobile Application Development
+- System Design and Scalable Architectures
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sai-vignesh21" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
-    LinkedIn
-  </a>
-</p>
+## Current Focus
 
----
+- Building AI-powered applications
+- Developing end-to-end full-stack products
+- Exploring multi-agent AI systems
+- Learning MLOps and cloud deployment
+- Contributing to open-source projects
 
-### 🛠️ Languages & Tools
+## Technology Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/>
-</p>
+### Languages
+- Python
+- JavaScript
+- Java
+- C++
+- SQL
 
----
+### AI & Data Science
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+- Pandas
+- NumPy
 
-### 📈 GitHub Stats
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- Redis
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saivignesh21&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=saivignesh21&theme=tokyonight" width="48%" />
-</p>
+### Frontend
+- React
+- HTML
+- CSS
 
+### Mobile
+- Flutter
+- React Native
+
+### Cloud & Tools
+- AWS
+- Firebase
+- Git
+- GitHub
+
+## Featured Projects
+
+### Enterprise RAG Assistant
+AI-powered document intelligence platform using vector search and LLMs.
+
+### AI Finance Advisor
+Financial insights and portfolio analysis using machine learning and AI.
+
+### Multi-Agent AI System
+Collaborative AI agents designed for complex business workflows.
+
+### RentEasy
+Property rental and real-estate platform with recommendation features.
+
+## Connect
+
+LinkedIn:
+www.linkedin.com/in/sai-vignesh21
+
+Email:
+gugulothvignesh302@gmail.com
