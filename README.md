@@ -1,46 +1,33 @@
 # Guguloth Sai Vignesh
-**Full Stack & AI Developer | Undergraduate at IIT Kharagpur**
 
----
+Full-stack and AI developer at IIT Kharagpur. I build practical software products that combine clean user experiences, reliable backend systems, and applied machine learning.
 
-### 🏛️ About Me
-* Pursuing a Dual Degree at the **Indian Institute of Technology, Kharagpur**.
-* Specializing in scalable web architectures, full-stack systems, and AI framework integration.
-* Focused on building production-ready applications utilizing modern software methodologies, RAG systems, and intelligent agents.
-* Open to collaboration on open-source initiatives and impactful engineering projects.
+My work is centred on AI-enabled applications, data products, and end-to-end web platforms—from the interface and API layer to model integration and deployment-ready project structure.
 
----
+## Focus areas
 
-### 💻 Technical Expertise
+- **Applied AI:** retrieval-augmented generation, intelligent agents, machine-learning workflows, and AI product interfaces.
+- **Full-stack development:** React, Next.js, Node.js, Python APIs, relational and document databases.
+- **Data products:** turning raw data into usable dashboards, decision tools, and measurable business workflows.
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | C++, Python, JavaScript (ES6+), C, Java, HTML5, CSS3 |
-| **Frameworks & Libraries** | React.js, Next.js, Node.js, Express.js, Tailwind CSS, Flutter, React Native |
-| **AI & Data Science** | PyTorch, TensorFlow, Scikit-Learn, Pandas, LangChain / Agentic Frameworks |
-| **Databases & Caching** | MongoDB, MySQL, PostgreSQL, Supabase, Redis |
-| **Cloud & DevOps** | AWS, Firebase, Git, Git Bash, n8n Automation |
+## Selected projects
 
----
+| Project | What it demonstrates |
+| --- | --- |
+| [Retention Intelligence Platform](https://github.com/saivignesh21/retention-intelligence-platform) | End-to-end churn prediction, CLV modelling, explainability, FastAPI, and a Next.js decision dashboard. |
+| [Prompt Lab](https://github.com/saivignesh21/prompt-lab) | Interactive prompt strategy playground focused on practical AI workflows. |
+| [AI Resume Assist](https://github.com/saivignesh21/ai-resume-assist) | AI-assisted resume workflow built with Python. |
+| [Stocksy AI](https://github.com/saivignesh21/Stocksy_Ai) | TypeScript-based AI product project. |
+| [Portfolio Website](https://github.com/saivignesh21/vignesh-portifolio) | Personal site built with Next.js and Tailwind CSS. |
 
-### 🚀 Key Projects & Focus Areas
+## Technical toolkit
 
-* **Full-Stack Systems:** Designing responsive, secure web platforms using the MERN stack and Next.js, optimizing frontend performance and backend APIs.
-* **AI Engineering:** Developing Retrieval-Augmented Generation (RAG) pipelines and adaptive learning systems (e.g., text-to-learn architectures).
-* **Cross-Platform Mobile:** Engineering high-performance mobile applications using Flutter and React Native.
+- **Languages:** Python, JavaScript, TypeScript, C++, Java, C, SQL
+- **Frontend:** React, Next.js, Tailwind CSS, HTML, CSS
+- **Backend and data:** Node.js, Express, FastAPI, pandas, scikit-learn, XGBoost, PostgreSQL, MySQL, MongoDB, Supabase
+- **AI and tooling:** PyTorch, TensorFlow, LangChain, Git, Docker, AWS, Firebase
 
----
+## Connect
 
-### 📊 Performance & Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saivignesh21&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Sai Vignesh's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=saivignesh21&theme=tokyonight&hide_border=true" width="48%" alt="Sai Vignesh's Git Streak" />
-</p>
-
----
-
-### 🌐 Contact & Professional Networks
-
-* **Email:** gugulothvignesh302@gmail.com
-* **LinkedIn:** [linkedin.com/in/sai-vignesh21](https://www.linkedin.com/in/sai-vignesh21)
+- LinkedIn: [linkedin.com/in/sai-vignesh21](https://www.linkedin.com/in/sai-vignesh21)
+- Email: gugulothvignesh302@gmail.com
