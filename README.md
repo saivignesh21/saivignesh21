@@ -1,33 +1,33 @@
-# Guguloth Sai Vignesh
+<div align="center">
 
-Full-stack and AI developer at IIT Kharagpur. I build practical software products that combine clean user experiences, reliable backend systems, and applied machine learning.
+# GUGULOTH SAI VIGNESH
 
-My work is centred on AI-enabled applications, data products, and end-to-end web platforms—from the interface and API layer to model integration and deployment-ready project structure.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+Engineer+%7C+Data+Science+%7C+Full-Stack;Building+practical+AI-powered+products;Machine+Learning+%2B+Software+Engineering" alt="Typing animation" />
 
-## Focus areas
+<br />
 
-- **Applied AI:** retrieval-augmented generation, intelligent agents, machine-learning workflows, and AI product interfaces.
-- **Full-stack development:** React, Next.js, Node.js, Python APIs, relational and document databases.
-- **Data products:** turning raw data into usable dashboards, decision tools, and measurable business workflows.
+<a href="https://github.com/saivignesh21">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sai-vignesh21">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:gugulothvignesh302@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
-## Selected projects
+<br /><br />
 
-| Project | What it demonstrates |
-| --- | --- |
-| [Retention Intelligence Platform](https://github.com/saivignesh21/retention-intelligence-platform) | End-to-end churn prediction, CLV modelling, explainability, FastAPI, and a Next.js decision dashboard. |
-| [Prompt Lab](https://github.com/saivignesh21/prompt-lab) | Interactive prompt strategy playground focused on practical AI workflows. |
-| [AI Resume Assist](https://github.com/saivignesh21/ai-resume-assist) | AI-assisted resume workflow built with Python. |
-| [Stocksy AI](https://github.com/saivignesh21/Stocksy_Ai) | TypeScript-based AI product project. |
-| [Portfolio Website](https://github.com/saivignesh21/vignesh-portifolio) | Personal site built with Next.js and Tailwind CSS. |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="80%" />
 
-## Technical toolkit
+</div>
 
-- **Languages:** Python, JavaScript, TypeScript, C++, Java, C, SQL
-- **Frontend:** React, Next.js, Tailwind CSS, HTML, CSS
-- **Backend and data:** Node.js, Express, FastAPI, pandas, scikit-learn, XGBoost, PostgreSQL, MySQL, MongoDB, Supabase
-- **AI and tooling:** PyTorch, TensorFlow, LangChain, Git, Docker, AWS, Firebase
+## About
 
-## Connect
+I'm a developer at **IIT Kharagpur** focused on building practical systems across **AI, machine learning, data science, and full-stack engineering**.
 
-- LinkedIn: [linkedin.com/in/sai-vignesh21](https://www.linkedin.com/in/sai-vignesh21)
-- Email: gugulothvignesh302@gmail.com
+I enjoy taking ideas from **data and experimentation to production-ready applications** — combining models, APIs, databases, and modern interfaces into useful products.
+
+```text
+AI Engineering       Machine Learning       Data Science
+Full-Stack Systems   Backend Development    Product Engineering
