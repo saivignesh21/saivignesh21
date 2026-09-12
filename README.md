@@ -3,10 +3,7 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,20:0d1117,50:1f6feb,80:0d1117,100:161b22&height=250&section=header&text=&fontSize=0&animation=fadeIn" width="100%" />
 
-<!-- Profile Picture -->
-<img src="https://github.com/saivignesh21.png" width="160" style="border-radius: 50%; border: 3px solid #1f6feb;" />
-
-<br /><br />
+<br />
 
 <!-- Name -->
 <h1 align="center">Guguloth Sai Vignesh</h1>
